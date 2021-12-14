@@ -45,6 +45,6 @@ class VehicleListView(generics.ListCreateAPIView):
 
 
 class VehicleDetailView(generics.RetrieveUpdateDestroyAPIView):
-    """ Returns a specific driver """
+    """ Returns a specific vehicle """
     serializer_class = VehicleListSerializer
     queryset = Vehicle.objects.all()
