@@ -49,4 +49,4 @@ UPDATE /vehicles/vehicle/<vehicle_id>/
 POST /vehicles/set_driver/<vehicle_id>/
 DELETE /vehicles/vehicle/<vehicle_id>/
 ```
-[__HOW TO DEPLOY THE PROJECT?__]()
+[__HOW TO DEPLOY THE PROJECT?__](https://github.com/savvit/VitaliiSavchuk_Yalantis_Python_School/blob/master/SETUP.md)
