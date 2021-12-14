@@ -1,5 +1,5 @@
-#REST API for car fleet with drivers
-##Project made for Yalantis Python School
+# REST API for car fleet with drivers
+## Project made for Yalantis Python School
 __Technologies that were used in the project:__
 * [Python 3](https://www.python.org/)
 * [Django 4.0](https://www.djangoproject.com/)
