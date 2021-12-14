@@ -1,5 +1,5 @@
-#Deployment instructions( on Linux )
-##Step 1 — Install Python and pip
+# Deployment instructions( on Linux )
+## Step 1 — Install Python and pip
 To install Python we must first update the local APT repository.
 ```
 sudo apt-get update && sudo apt-get -y upgrade
@@ -20,7 +20,7 @@ To verify that pip was successfully installed, run the following command:
 ```
 pip3 -V
 ```
-##Step 2 — Install virtualenv
+## Step 2 — Install virtualenv
 __virtualenv__ - is a tool for creating isolated Python environments containing their own copy of python ,pip , and their own place to keep libraries installed from PyPI.
 
 To install virtualenv, we will use the __pip3__ command, as shown below:
@@ -28,7 +28,7 @@ To install virtualenv, we will use the __pip3__ command, as shown below:
 pip3 install virtualenv
 ```
 Once it is installed and you don't have any errors it means you have successfully installed __virtualenv__.
-##Step 3 — Install Django
+## Step 3 — Install Django
 Lets'  create home directory for Django project
 ```
 mkdir django-app
@@ -49,7 +49,7 @@ sudo apt install git
 ```
 and clone project:
 ```
-CODE HERE
+https://github.com/savvit/VitaliiSavchuk_Yalantis_Python_School.git
 ```
 After cloning you have to install `requirements.txt`
 This file is used for specifying what python packages are required to run the project.
